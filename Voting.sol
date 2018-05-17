@@ -1,6 +1,6 @@
 pragma solidity ^0.4.17;
 
-/*Author: Swathi Kadambala */
+/*Author: Nishanth */
 contract Voting {
     
     // There are few proposal names 
