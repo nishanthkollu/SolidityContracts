@@ -5,8 +5,6 @@ pragma solidity^0.4.*;
   Here in this example , I am using two contracts Teacher contract and Student Contract. 
     
   In Teacher contract teacher will add students. In sutdents contract, students can update their marks.
-
-
 */
 
 contract owned {
